@@ -1,12 +1,15 @@
 * {
     background-color: bisque;
+    font-family: Arial, Helvetica, sans-serif;
 }
 
-img{
+img {
     max-height: 200px;
     width: auto;
 }
 
-h1, h2, h3 {
+h1,
+h2,
+h3 {
     font-weight: strong;
 }
