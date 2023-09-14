@@ -1,3 +1,8 @@
+*{
+    margin: 0 auto;
+    padding: 0 auto;
+}
+
 html {
     background-color: lightgreen;
     font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;;
@@ -8,8 +13,7 @@ body{
     color: white;
     text-align: center;
     max-width: 800px;
-    min-height: 100vh;
-    margin: 0 auto;
+    min-height: 90vh;
 }
 
 img {
@@ -21,10 +25,6 @@ h1,
 h2,
 h3 {
     font-weight: strong;
-}
-
-h1{
-    margin: 0px;
 }
 
 a{
@@ -42,8 +42,6 @@ button {
 ul{
     list-style: none;
     text-align: left;
-    margin-left: 24px;
-    padding: 0;
 }
 
 ol{
