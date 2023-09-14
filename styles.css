@@ -4,11 +4,11 @@ html {
 }
 
 body{
-    background-color: #0f2e0f;
+    background-color: rgb(15, 46, 15);
     color: white;
     text-align: center;
     max-width: 800px;
-    height: 100vh;
+    min-height: 100vh;
     margin: 0 auto;
 }
 
