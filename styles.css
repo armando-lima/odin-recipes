@@ -37,6 +37,11 @@ button {
 ul{
     list-style: none;
     text-align: left;
-    margin-left: 20px;
+    margin-left: 24px;
     padding: 0;
+}
+
+ol{
+    text-align: justify;
+    margin-right: 24px;
 }
