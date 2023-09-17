@@ -55,3 +55,7 @@ ol{
 hr{
     margin: 10px;
 }
+
+p, button, img {
+    margin: 10px;
+}
